@@ -1,6 +1,6 @@
 # DroneKit Python
 
-<h1>THIS IS A COPY OF THE ORIGINAL REPOSITORY OF DRONEKIT PYTHON - ORIGINAL VERSION: <a href="https://github.com/dronekit/dronekit-python"> DroneKit-Python Original Repository</a></h1>
+<h1>THIS IS A MODIFIED COPY OF THE ORIGINAL REPOSITORY OF DRONEKIT PYTHON - ORIGINAL VERSION: <a href="https://github.com/dronekit/dronekit-python"> DroneKit-Python Original Repository</a></h1>
 
 ![dronekit_python_logo](https://cloud.githubusercontent.com/assets/5368500/10805537/90dd4b14-7e22-11e5-9592-5925348a7df9.png)
 
